@@ -1,0 +1,20 @@
+C:\Users\NtelezaO\Desktop\IP.App\IP.App\bin\Debug\IP.App.exe
+C:\Users\NtelezaO\Desktop\IP.App\IP.App\bin\Debug\IP.App.pdb
+C:\Users\NtelezaO\Desktop\IP.App\IP.App\obj\x86\Debug\IP.App.Form1.resources
+C:\Users\NtelezaO\Desktop\IP.App\IP.App\obj\x86\Debug\IP.App.Properties.Resources.resources
+C:\Users\NtelezaO\Desktop\IP.App\IP.App\obj\x86\Debug\IP.App.csproj.GenerateResource.Cache
+C:\Users\NtelezaO\Desktop\IP.App\IP.App\obj\x86\Debug\IP.App.exe
+C:\Users\NtelezaO\Desktop\IP.App\IP.App\obj\x86\Debug\IP.App.pdb
+C:\Users\NtelezaO\Desktop\code using objects\IP.App\IP.App\obj\x86\Debug\IP.App.exe
+C:\Users\NtelezaO\Desktop\code using objects\IP.App\IP.App\obj\x86\Debug\IP.App.pdb
+F:\IP.App\IP.App\obj\x86\Debug\IP.App.exe
+F:\IP.App\IP.App\obj\x86\Debug\IP.App.pdb
+F:\IP.App\IP.App\bin\Debug\IP.App.exe
+F:\IP.App\IP.App\bin\Debug\IP.App.pdb
+F:\IP.App\IP.App\obj\x86\Debug\IP.App.Form1.resources
+F:\IP.App\IP.App\obj\x86\Debug\IP.App.Properties.Resources.resources
+F:\IP.App\IP.App\obj\x86\Debug\IP.App.csproj.GenerateResource.Cache
+C:\Users\Onele\Desktop\c# coding\IP.App\IP.App\obj\x86\Debug\IP.App.exe
+C:\Users\Onele\Desktop\c# coding\IP.App\IP.App\obj\x86\Debug\IP.App.pdb
+H:\studies\C#\c# coding\IP.App\IP.App\obj\x86\Debug\IP.App.exe
+H:\studies\C#\c# coding\IP.App\IP.App\obj\x86\Debug\IP.App.pdb
